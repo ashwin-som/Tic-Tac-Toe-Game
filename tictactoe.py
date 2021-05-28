@@ -8,7 +8,7 @@ Original file is located at
 """
 
 # TicTacToe Game
-
+#This is a basic implementation of Tic Tac Toe
 print("Hello, Welcome to my Tic Tac Toe Game! The game starts now!")
 n=9
 checker = False
